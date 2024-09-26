@@ -19,7 +19,6 @@ const writeProductsToFile = (products) => {
 const getProducts = (req, res) => {
     try {
         const products = readProductsFromFile();
-        console.log(products);
         res.json(products);
     } catch (error) {
         res.status(500).json({ message: 'Server Error' });
