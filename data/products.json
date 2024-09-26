@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 199.99,
+      "description": "High-quality wireless headphones with noise-cancellation.",
+      "imageUrl": "https://example.com/headphones.jpg",
+      "category": "Electronics",
+      "quantity": 100,
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "price": 699.99,
+      "description": "Latest smartphone with a powerful processor.",
+      "imageUrl": "https://example.com/smartphone.jpg",
+      "category": "Mobile Phones",
+      "quantity": 50,
+      "inStock": true
+    }
+  ]
