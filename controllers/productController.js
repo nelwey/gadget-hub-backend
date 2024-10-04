@@ -58,4 +58,5 @@ module.exports = {
     getProducts,
     getProductById,
     addProduct,
+    readProductsFromFile
 };

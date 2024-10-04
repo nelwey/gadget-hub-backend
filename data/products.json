@@ -13,7 +13,7 @@
     "title": "Смартфон 256 ГБ розовый",
     "rating": "5",
     "category": "Mobile Phones",
-    "quantity": 50,
+    "stock": 50,
     "inStock": true
   },
   {
@@ -30,7 +30,7 @@
     "title": "Умный робот-друг",
     "rating": "",
     "category": "Mobile Phones",
-    "quantity": 50,
+    "stock": 50,
     "inStock": true
   },
   {
@@ -47,7 +47,7 @@
     "title": "Часы с GPS трекером, розовый",
     "rating": "4,8",
     "category": "Mobile Phones",
-    "quantity": 50,
+    "stock": 50,
     "inStock": true
   },
   {
@@ -64,11 +64,11 @@
     "title": "Смарт-часы, черные",
     "rating": "4",
     "category": "Mobile Phones",
-    "quantity": 50,
+    "stock": 50,
     "inStock": true
   },
   {
-    "id": 4,
+    "id": 5,
     "description": "Смартфон фиолетовый — девайс со складным корпусом и двумя 'Экран'ами, что расширяет его возможности. ",
     "characteristics": {
       "Гарантия": "1 год",
@@ -81,11 +81,11 @@
     "title": "Смартфон 256GB фиолетовый",
     "rating": "5",
     "category": "Mobile Phones",
-    "quantity": 50,
+    "stock": 50,
     "inStock": true
   },
   {
-    "id": 5,
+    "id": 6,
     "description": "Смартфон фиолетовый — девайс со складным корпусом и двумя 'Экран'ами, что расширяет его возможности. ",
     "characteristics": {
       "Гарантия": "1 год",
@@ -98,11 +98,11 @@
     "title": "Беспроводная акустика, голубой",
     "rating": "4,8",
     "category": "Mobile Phones",
-    "quantity": 50,
+    "stock": 50,
     "inStock": true
   },
   {
-    "id": 6,
+    "id": 7,
     "description": "Смартфон фиолетовый — девайс со складным корпусом и двумя 'Экран'ами, что расширяет его возможности. ",
     "characteristics": {
       "Гарантия": "1 год",
@@ -115,11 +115,11 @@
     "title": "Аппаратный ключ аутентификации...",
     "rating": "5",
     "category": "Mobile Phones",
-    "quantity": 50,
+    "stock": 50,
     "inStock": true
   },
   {
-    "id": 7,
+    "id": 8,
     "description": "Смартфон фиолетовый — девайс со складным корпусом и двумя 'Экран'ами, что расширяет его возможности. ",
     "characteristics": {
       "Гарантия": "1 год",
@@ -132,11 +132,11 @@
     "title": "Шлем виртуальной реальности 128...",
     "rating": "4,8",
     "category": "Mobile Phones",
-    "quantity": 50,
+    "stock": 50,
     "inStock": true
   },
   {
-    "id": 8,
+    "id": 9,
     "description": "Смартфон фиолетовый — девайс со складным корпусом и двумя 'Экран'ами, что расширяет его возможности. ",
     "characteristics": {
       "Гарантия": "1 год",
@@ -149,7 +149,7 @@
     "title": "Фитнес-браслет, розовый",
     "rating": "",
     "category": "Mobile Phones",
-    "quantity": 50,
+    "stock": 50,
     "inStock": true
   }
  
